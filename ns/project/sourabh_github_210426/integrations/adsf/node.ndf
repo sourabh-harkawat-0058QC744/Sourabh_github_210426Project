@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">Sourabh.Harkawat1@ibm.com</value>
-    <value name="lastModifiedDate">1776758515101</value>
+    <value name="lastModifiedDate">1776758545361</value>
     <value name="displayName">adsf</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -82,6 +82,23 @@
         <null name="mapSet"/>
       </record>
       <record name="/2" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">PACKAGES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">LowerFSPackage</value>
+          <value name="groupName">LowerFSPackage;4.133</value>
+          <null name="services"/>
+        </record>
+        <Boolean name="isProjectPackage">false</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="description">LowerFSPackage:lowerFS</value>
+          <value name="serviceName">LowerFSPackage:lowerFS</value>
+          <value name="displayName">lowerFS</value>
+        </record>
+        <null name="outputMapSet"/>
+        <null name="mapSet"/>
+      </record>
+      <record name="/3" javaclass="com.wm.util.Values">
         <value name="itemType">ALL</value>
         <value name="name">NEW</value>
       </record>
